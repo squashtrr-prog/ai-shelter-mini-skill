@@ -1,0 +1,5 @@
+interface:
+  display_name: "庇护所mini开源版"
+  short_description: "批量生成末日逃生避难所视频内容包"
+  default_prompt: "使用 ai-shelter-mini-open 帮我制作末日逃生避难所视频。第一次调用时先让我确认批次数量、主题方式、视频范围、付费生成、历史去重和交付方式。"
+
